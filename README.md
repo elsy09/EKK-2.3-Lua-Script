@@ -1,1 +1,3 @@
-I saw CK+'s Vs Recorder and had a dream. This is a very boring program that simplifies the process of export command, copy, paste, hit import into a single button.
+This Lua Script was made by Lynnpetals.
+I editted it to match ekk version 2.3.
+All credits go to Lynnpetals.
